@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Dosa",
+        "no of plates": 2
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "no of plates": 40
+    },
+    {
+        "id": 3,
+        "name": "Chowmein",
+        "no of plates": 20
+    },
+    {
+        "id": 4,
+        "name": "Lassi",
+        "no of plates": 16
+    },
+    {
+        "id": 5,
+        "name": "pumpkin fry",
+        "no of plates": 10
+    }
+]
